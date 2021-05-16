@@ -1,10 +1,10 @@
-/**
+"""
  * @author Hitesh Mishra
  * @email HiteshMishra708@gmail.com
  * @create date 2021-05-16 15:50:24
  * @modify date 2021-05-16 15:50:24
  * @desc [description]
- */
+"""
 #Import math library
 import math
 

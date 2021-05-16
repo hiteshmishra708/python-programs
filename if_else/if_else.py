@@ -1,10 +1,10 @@
-/**
+"""
  * @author Hitesh Mishra
  * @email HiteshMishra708@gmail.com
  * @create date 2021-05-16 16:08:18
  * @modify date 2021-05-16 16:08:18
  * @desc [description]
- */
+"""
 a = 200
 b = 33
 if b > a:

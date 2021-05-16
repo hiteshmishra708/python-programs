@@ -1,10 +1,10 @@
-/**
+"""
  * @author Hitesh Mishra
  * @email HiteshMishra708@gmail.com
  * @create date 2021-05-16 15:54:40
  * @modify date 2021-05-16 15:54:40
  * @desc [description]
- */
+"""
 class Person:
   def __init__(mysillyobject, name, age):
     mysillyobject.name = name
